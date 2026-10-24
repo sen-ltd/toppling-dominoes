@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Toppling Dominoes — exact values and the Toppling Conjectures rechecked</title>
+    <meta
+      name="description"
+      content="Toppling Dominoes in the browser with an exact combinatorial game theory engine: every row gets its canonical value (numbers, ↑, ⧾ tinies, nimbers, hot games), every topple is marked winning or losing, and every theorem and conjecture of Fink, Nowakowski, Siegel and Wolfe's 'Toppling Conjectures' is rechecked on every row up to a fixed length."
+    />
+    <link
+      rel="icon"
+      href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%23141518'/%3E%3Crect x='6' y='7' width='6' height='19' rx='1.5' fill='%234f8ef7'/%3E%3Crect x='13' y='7' width='6' height='19' rx='1.5' fill='%23ef5a6b' transform='rotate(18 16 26)'/%3E%3Crect x='21' y='7' width='6' height='19' rx='1.5' fill='%2363c58a'/%3E%3C/svg%3E"
+    />
+  </head>
+  <body>
+    <main>
+      <header>
+        <h1>Toppling Dominoes <span>knock them over, one side at a time</span></h1>
+        <p class="sub">
+          <strong class="blue-t">Blue</strong> (Left) topples a blue domino, <strong class="red-t">Red</strong>
+          (Right) a red one, and either player may topple a <strong class="green-t">green</strong> one. The domino falls
+          east or west and takes <em>every domino on that side</em> with it. Whoever cannot move loses. Every row has an
+          exact value (numbers, ↑, ⧾ tinies, nimbers, hot games), shown on the right. With hints on, the arrows above your
+          dominoes are marked <strong class="win-t">✓</strong> when the topple keeps the win and
+          <strong class="lose-t">✗</strong> when it throws it away.
+        </p>
+      </header>
+
+      <div id="wrap">
+        <div class="stage">
+          <div class="controls">
+            <label class="sel">row <select id="presetSel"></select></label>
+            <label class="sel">you play
+              <select id="youSel">
+                <option value="L">Blue</option>
+                <option value="R">Red</option>
+              </select>
+            </label>
+            <label class="sel">first
+              <select id="firstSel">
+                <option value="L">Blue</option>
+                <option value="R">Red</option>
+              </select>
+            </label>
+            <label class="sel chk"><input type="checkbox" id="hints" checked /> hints</label>
+            <button id="undo">Undo</button>
+            <button id="restart">Restart</button>
+            <button id="mode">Edit</button>
+          </div>
+          <div class="controls" id="palette" hidden>
+            <button data-add="L" class="add blue">+ blue</button>
+            <button data-add="R" class="add red">+ red</button>
+            <button data-add="E" class="add green">+ green</button>
+            <button id="pop" title="remove the east end">− last</button>
+            <button id="random">Random</button>
+            <button id="clear">Clear</button>
+            <input id="rowText" spellcheck="false" aria-label="row" placeholder="LRLRE" />
+            <button id="setText">Set</button>
+            <span class="dim small">click a domino to change its colour; L / R / E, up to 24</span>
+          </div>
+          <div id="boardwrap"><svg id="board" role="img" aria-label="Toppling Dominoes row"></svg></div>
+          <div id="status" aria-live="polite"></div>
+        </div>
+        <div class="side">
+          <h3>value of the row</h3>
+          <div class="panel" id="value"></div>
+          <h3>Toppling Conjectures, rechecked</h3>
+          <div class="panel" id="paper"></div>
+        </div>
+      </div>
+
+      <section class="notes">
+        <h2>How the values are computed</h2>
+        <p>
+          A topple removes a prefix or a suffix of the row, so every position that can arise is a substring and a row
+          of n dominoes has at most n(n+1)/2 followers. Each substring is valued once from its options and reduced to
+          <em>canonical form</em> (dominated options deleted, reversible ones bypassed), so equal games get the same id.
+          Outcomes are checked against a plain win/lose search that never looks at values.
+        </p>
+        <h2>Checked against the literature</h2>
+        <p>
+          The repository recomputes A. Fink, R. J. Nowakowski, A. N. Siegel and D. Wolfe,
+          <em>Toppling Conjectures</em>, Games of No Chance 4, MSRI Publications 63 (2015) 65–76: the values in its
+          figures, the f(G) = 1:G construction, the uniqueness of numbers, the tinies, the m forms of *m, the lemmas
+          on infinitesimals, and Conjectures 22, 33–35 and 37–39, on every row up to a fixed length. Conjecture 39
+          fails in exactly the cases where b = c, because {a | b ‖ b | d} is then just the number b.
+        </p>
+      </section>
+
+      <footer>
+        <p>
+          Built by <a href="https://sen.ltd/">SEN LLC</a>. TypeScript, no runtime
+          dependencies. <a href="https://github.com/sen-ltd/toppling-dominoes">Source</a>.
+        </p>
+      </footer>
+    </main>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>

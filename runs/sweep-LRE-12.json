@@ -1,0 +1,1039 @@
+{
+ "alphabet": "LRE",
+ "N": 12,
+ "seconds": 811.16,
+ "distinctValues": 243917,
+ "games": 245266,
+ "checks": {
+  "lemma1": {
+   "checked": 797161,
+   "failures": []
+  },
+  "search": {
+   "checked": 797161,
+   "failures": []
+  },
+  "thm10": {
+   "checked": 2730,
+   "failures": []
+  },
+  "conj34": {
+   "checked": 3055786,
+   "failures": []
+  },
+  "lemma14": {
+   "checked": 63,
+   "failures": []
+  },
+  "lemma30": {
+   "checked": 66436,
+   "failures": []
+  },
+  "lemma31": {
+   "checked": 199296,
+   "failures": []
+  }
+ },
+ "thm16": {
+  "numbers": 63,
+  "failures": [],
+  "list": [
+   [
+    "-12",
+    "RRRRRRRRRRRR"
+   ],
+   [
+    "-11",
+    "RRRRRRRRRRR"
+   ],
+   [
+    "-10",
+    "RRRRRRRRRR"
+   ],
+   [
+    "-9",
+    "RRRRRRRRR"
+   ],
+   [
+    "-8",
+    "RRRRRRRR"
+   ],
+   [
+    "-7",
+    "RRRRRRR"
+   ],
+   [
+    "-6",
+    "RRRRRR"
+   ],
+   [
+    "-5",
+    "RRRRR"
+   ],
+   [
+    "-9/2",
+    "RRRRRLRRRRR"
+   ],
+   [
+    "-4",
+    "RRRR"
+   ],
+   [
+    "-7/2",
+    "RRRRLRRRR"
+   ],
+   [
+    "-3",
+    "RRR"
+   ],
+   [
+    "-11/4",
+    "RRRLRRRRLRRR"
+   ],
+   [
+    "-5/2",
+    "RRRLRRR"
+   ],
+   [
+    "-9/4",
+    "RRRLRRRLRRR"
+   ],
+   [
+    "-2",
+    "RR"
+   ],
+   [
+    "-7/4",
+    "RRLRRRLRR"
+   ],
+   [
+    "-3/2",
+    "RRLRR"
+   ],
+   [
+    "-5/4",
+    "RRLRRLRR"
+   ],
+   [
+    "-9/8",
+    "RRLRRLRRLRR"
+   ],
+   [
+    "-1",
+    "R"
+   ],
+   [
+    "-15/16",
+    "RLRRLRRLRRLR"
+   ],
+   [
+    "-7/8",
+    "RLRRLRRLR"
+   ],
+   [
+    "-3/4",
+    "RLRRLR"
+   ],
+   [
+    "-5/8",
+    "RLRRLRLRRLR"
+   ],
+   [
+    "-1/2",
+    "RLR"
+   ],
+   [
+    "-3/8",
+    "RLRLRRLRLR"
+   ],
+   [
+    "-1/4",
+    "RLRLR"
+   ],
+   [
+    "-1/8",
+    "RLRLRLR"
+   ],
+   [
+    "-1/16",
+    "RLRLRLRLR"
+   ],
+   [
+    "-1/32",
+    "RLRLRLRLRLR"
+   ],
+   [
+    "0",
+    ""
+   ],
+   [
+    "1/32",
+    "LRLRLRLRLRL"
+   ],
+   [
+    "1/16",
+    "LRLRLRLRL"
+   ],
+   [
+    "1/8",
+    "LRLRLRL"
+   ],
+   [
+    "1/4",
+    "LRLRL"
+   ],
+   [
+    "3/8",
+    "LRLRLLRLRL"
+   ],
+   [
+    "1/2",
+    "LRL"
+   ],
+   [
+    "5/8",
+    "LRLLRLRLLRL"
+   ],
+   [
+    "3/4",
+    "LRLLRL"
+   ],
+   [
+    "7/8",
+    "LRLLRLLRL"
+   ],
+   [
+    "15/16",
+    "LRLLRLLRLLRL"
+   ],
+   [
+    "1",
+    "L"
+   ],
+   [
+    "9/8",
+    "LLRLLRLLRLL"
+   ],
+   [
+    "5/4",
+    "LLRLLRLL"
+   ],
+   [
+    "3/2",
+    "LLRLL"
+   ],
+   [
+    "7/4",
+    "LLRLLLRLL"
+   ],
+   [
+    "2",
+    "LL"
+   ],
+   [
+    "9/4",
+    "LLLRLLLRLLL"
+   ],
+   [
+    "5/2",
+    "LLLRLLL"
+   ],
+   [
+    "11/4",
+    "LLLRLLLLRLLL"
+   ],
+   [
+    "3",
+    "LLL"
+   ],
+   [
+    "7/2",
+    "LLLLRLLLL"
+   ],
+   [
+    "4",
+    "LLLL"
+   ],
+   [
+    "9/2",
+    "LLLLLRLLLLL"
+   ],
+   [
+    "5",
+    "LLLLL"
+   ],
+   [
+    "6",
+    "LLLLLL"
+   ],
+   [
+    "7",
+    "LLLLLLL"
+   ],
+   [
+    "8",
+    "LLLLLLLL"
+   ],
+   [
+    "9",
+    "LLLLLLLLL"
+   ],
+   [
+    "10",
+    "LLLLLLLLLL"
+   ],
+   [
+    "11",
+    "LLLLLLLLLLL"
+   ],
+   [
+    "12",
+    "LLLLLLLLLLLL"
+   ]
+  ]
+ },
+ "conj22": [
+  {
+   "x": 0.125,
+   "row": "RLLRLRLRLLR",
+   "count": 1,
+   "rows": [
+    "RLLRLRLRLLR"
+   ]
+  },
+  {
+   "x": 0.125,
+   "row": "LRRLRLRLRRL",
+   "count": 1,
+   "rows": [
+    "LRRLRLRLRRL"
+   ]
+  },
+  {
+   "x": 0.25,
+   "row": "RLLRLRLLR",
+   "count": 1,
+   "rows": [
+    "RLLRLRLLR"
+   ]
+  },
+  {
+   "x": 0.25,
+   "row": "LRRLRLRRL",
+   "count": 1,
+   "rows": [
+    "LRRLRLRRL"
+   ]
+  },
+  {
+   "x": 0.5,
+   "row": "RLLRLLR",
+   "count": 1,
+   "rows": [
+    "RLLRLLR"
+   ]
+  },
+  {
+   "x": 0.5,
+   "row": "LRRLRRL",
+   "count": 1,
+   "rows": [
+    "LRRLRRL"
+   ]
+  },
+  {
+   "x": 0.75,
+   "row": "RLLRLLRLLR",
+   "count": 1,
+   "rows": [
+    "RLLRLLRLLR"
+   ]
+  },
+  {
+   "x": 0.75,
+   "row": "LRRLRRLRRL",
+   "count": 1,
+   "rows": [
+    "LRRLRRLRRL"
+   ]
+  },
+  {
+   "x": 1,
+   "row": "RLLLR",
+   "count": 1,
+   "rows": [
+    "RLLLR"
+   ]
+  },
+  {
+   "x": 1,
+   "row": "LRRRL",
+   "count": 1,
+   "rows": [
+    "LRRRL"
+   ]
+  },
+  {
+   "x": 1.25,
+   "row": "RLLLRLLRLLLR",
+   "count": 1,
+   "rows": [
+    "RLLLRLLRLLLR"
+   ]
+  },
+  {
+   "x": 1.25,
+   "row": "LRRRLRRLRRRL",
+   "count": 1,
+   "rows": [
+    "LRRRLRRLRRRL"
+   ]
+  },
+  {
+   "x": 1.5,
+   "row": "RLLLRLLLR",
+   "count": 1,
+   "rows": [
+    "RLLLRLLLR"
+   ]
+  },
+  {
+   "x": 1.5,
+   "row": "LRRRLRRRL",
+   "count": 1,
+   "rows": [
+    "LRRRLRRRL"
+   ]
+  },
+  {
+   "x": 2,
+   "row": "RLLLLR",
+   "count": 1,
+   "rows": [
+    "RLLLLR"
+   ]
+  },
+  {
+   "x": 2,
+   "row": "LRRRRL",
+   "count": 1,
+   "rows": [
+    "LRRRRL"
+   ]
+  },
+  {
+   "x": 2.5,
+   "row": "RLLLLRLLLLR",
+   "count": 1,
+   "rows": [
+    "RLLLLRLLLLR"
+   ]
+  },
+  {
+   "x": 2.5,
+   "row": "LRRRRLRRRRL",
+   "count": 1,
+   "rows": [
+    "LRRRRLRRRRL"
+   ]
+  },
+  {
+   "x": 3,
+   "row": "RLLLLLR",
+   "count": 1,
+   "rows": [
+    "RLLLLLR"
+   ]
+  },
+  {
+   "x": 3,
+   "row": "LRRRRRL",
+   "count": 1,
+   "rows": [
+    "LRRRRRL"
+   ]
+  },
+  {
+   "x": 4,
+   "row": "RLLLLLLR",
+   "count": 1,
+   "rows": [
+    "RLLLLLLR"
+   ]
+  },
+  {
+   "x": 4,
+   "row": "LRRRRRRL",
+   "count": 1,
+   "rows": [
+    "LRRRRRRL"
+   ]
+  },
+  {
+   "x": 5,
+   "row": "RLLLLLLLR",
+   "count": 1,
+   "rows": [
+    "RLLLLLLLR"
+   ]
+  },
+  {
+   "x": 5,
+   "row": "LRRRRRRRL",
+   "count": 1,
+   "rows": [
+    "LRRRRRRRL"
+   ]
+  },
+  {
+   "x": 6,
+   "row": "RLLLLLLLLR",
+   "count": 1,
+   "rows": [
+    "RLLLLLLLLR"
+   ]
+  },
+  {
+   "x": 6,
+   "row": "LRRRRRRRRL",
+   "count": 1,
+   "rows": [
+    "LRRRRRRRRL"
+   ]
+  },
+  {
+   "x": 7,
+   "row": "RLLLLLLLLLR",
+   "count": 1,
+   "rows": [
+    "RLLLLLLLLLR"
+   ]
+  },
+  {
+   "x": 7,
+   "row": "LRRRRRRRRRL",
+   "count": 1,
+   "rows": [
+    "LRRRRRRRRRL"
+   ]
+  },
+  {
+   "x": 8,
+   "row": "RLLLLLLLLLLR",
+   "count": 1,
+   "rows": [
+    "RLLLLLLLLLLR"
+   ]
+  },
+  {
+   "x": 8,
+   "row": "LRRRRRRRRRRL",
+   "count": 1,
+   "rows": [
+    "LRRRRRRRRRRL"
+   ]
+  }
+ ],
+ "thm29": [
+  {
+   "m": 1,
+   "found": 3,
+   "expected": 2,
+   "ok": true,
+   "rows": [
+    "E",
+    "LR"
+   ]
+  },
+  {
+   "m": 2,
+   "found": 9,
+   "expected": 4,
+   "ok": true,
+   "rows": [
+    "EE",
+    "ELR",
+    "ERL",
+    "LRLR",
+    "LRRLRLLR"
+   ]
+  },
+  {
+   "m": 3,
+   "found": 21,
+   "expected": 4,
+   "ok": true,
+   "rows": [
+    "EEE",
+    "ELRE",
+    "EELR",
+    "EERL",
+    "LRELR",
+    "ELRLR"
+   ]
+  },
+  {
+   "m": 4,
+   "found": 37,
+   "expected": 4,
+   "ok": true,
+   "rows": [
+    "EEEE",
+    "EELRE",
+    "EERLE",
+    "EEELR",
+    "EEERL",
+    "LREELR"
+   ]
+  },
+  {
+   "m": 5,
+   "found": 63,
+   "expected": 2,
+   "ok": true,
+   "rows": [
+    "EEEEE",
+    "EELREE",
+    "EEELRE",
+    "EEERLE",
+    "EEEELR",
+    "EEEERL"
+   ]
+  },
+  {
+   "m": 6,
+   "found": 127,
+   "expected": 2,
+   "ok": true,
+   "rows": [
+    "EEEEEE",
+    "EEELREE",
+    "EEERLEE",
+    "EEEELRE",
+    "EEEERLE",
+    "EEEEELR"
+   ]
+  },
+  {
+   "m": 7,
+   "found": 239,
+   "expected": 0,
+   "ok": true,
+   "rows": [
+    "EEEEEEE",
+    "EEELREEE",
+    "EEEELREE",
+    "EEEERLEE",
+    "EEEEELRE",
+    "EEEEERLE"
+   ]
+  },
+  {
+   "m": 8,
+   "found": 325,
+   "expected": 0,
+   "ok": true,
+   "rows": [
+    "EEEEEEEE",
+    "EEEELREEE",
+    "EEEERLEEE",
+    "EEEEELREE",
+    "EEEEERLEE",
+    "EEEEEELRE"
+   ]
+  },
+  {
+   "m": 9,
+   "found": 259,
+   "expected": 0,
+   "ok": true,
+   "rows": [
+    "EEEEEEEEE",
+    "EEEELREEEE",
+    "EEEEELREEE",
+    "EEEEERLEEE",
+    "EEEEEELREE",
+    "EEEEEERLEE"
+   ]
+  },
+  {
+   "m": 10,
+   "found": 111,
+   "expected": 0,
+   "ok": true,
+   "rows": [
+    "EEEEEEEEEE",
+    "EEEEELREEEE",
+    "EEEEERLEEEE",
+    "EEEEEELREEE",
+    "EEEEEERLEEE",
+    "EEEEEEELREE"
+   ]
+  },
+  {
+   "m": 11,
+   "found": 23,
+   "expected": 0,
+   "ok": true,
+   "rows": [
+    "EEEEEEEEEEE",
+    "EEEEELREEEEE",
+    "EEEEEELREEEE",
+    "EEEEEERLEEEE",
+    "EEEEEEELREEE",
+    "EEEEEEERLEEE"
+   ]
+  },
+  {
+   "m": 12,
+   "found": 1,
+   "expected": 0,
+   "ok": true,
+   "rows": [
+    "EEEEEEEEEEEE"
+   ]
+  }
+ ],
+ "conj35": {
+  "checked": 253,
+  "failures": [],
+  "palindromeValueAlsoWithGreen": []
+ },
+ "conj33": {
+  "lrRows": 0,
+  "rows": [
+   "EREL",
+   "ERRLL"
+  ],
+  "count": 4
+ },
+ "forms": {
+  "thm36": {
+   "strict": {
+    "rows": 38,
+    "valueOk": 38,
+    "uniqueLR": 38,
+    "uniqueAll": 38,
+    "valueFailures": [],
+    "notUniqueLR": []
+   },
+   "ties": {
+    "rows": 0,
+    "valueOk": 0,
+    "uniqueLR": 0,
+    "uniqueAll": 0,
+    "valueFailures": [],
+    "notUniqueLR": []
+   },
+   "byTies": {
+    "a>b": {
+     "rows": 38,
+     "valueOk": 38,
+     "uniqueLR": 38,
+     "claimedIsNumber": 38
+    }
+   }
+  },
+  "conj37": {
+   "strict": {
+    "rows": 288,
+    "valueOk": 288,
+    "uniqueLR": 288,
+    "uniqueAll": 0,
+    "valueFailures": [],
+    "notUniqueLR": []
+   },
+   "ties": {
+    "rows": 17,
+    "valueOk": 17,
+    "uniqueLR": 17,
+    "uniqueAll": 0,
+    "valueFailures": [],
+    "notUniqueLR": []
+   },
+   "byTies": {
+    "a=b": {
+     "rows": 17,
+     "valueOk": 17,
+     "uniqueLR": 17,
+     "claimedIsNumber": 0
+    },
+    "a>b": {
+     "rows": 288,
+     "valueOk": 288,
+     "uniqueLR": 288,
+     "claimedIsNumber": 0
+    }
+   }
+  },
+  "conj38": {
+   "strict": {
+    "rows": 235,
+    "valueOk": 235,
+    "uniqueLR": 235,
+    "uniqueAll": 0,
+    "valueFailures": [],
+    "notUniqueLR": []
+   },
+   "ties": {
+    "rows": 117,
+    "valueOk": 117,
+    "uniqueLR": 117,
+    "uniqueAll": 61,
+    "valueFailures": [],
+    "notUniqueLR": []
+   },
+   "byTies": {
+    "a=b=c": {
+     "rows": 5,
+     "valueOk": 5,
+     "uniqueLR": 5,
+     "claimedIsNumber": 0
+    },
+    "a=b>c": {
+     "rows": 56,
+     "valueOk": 56,
+     "uniqueLR": 56,
+     "claimedIsNumber": 0
+    },
+    "a>b=c": {
+     "rows": 56,
+     "valueOk": 56,
+     "uniqueLR": 56,
+     "claimedIsNumber": 0
+    },
+    "a>b>c": {
+     "rows": 235,
+     "valueOk": 235,
+     "uniqueLR": 235,
+     "claimedIsNumber": 0
+    }
+   }
+  },
+  "conj39": {
+   "strict": {
+    "rows": 27,
+    "valueOk": 27,
+    "uniqueLR": 27,
+    "uniqueAll": 0,
+    "valueFailures": [],
+    "notUniqueLR": []
+   },
+   "ties": {
+    "rows": 142,
+    "valueOk": 63,
+    "uniqueLR": 63,
+    "uniqueAll": 0,
+    "valueFailures": [
+     "RLLLLLLLLRRL: claimed {6 | 0 || 0 | 0} (= 0), is {{6 | 0}, {6 | *} | *, ⧿(6)}",
+     "RLLLLLLLRRL: claimed {5 | 0 || 0 | 0} (= 0), is {{5 | 0}, {5 | *} | *, ⧿(5)}",
+     "RLLLLLLLRRRL: claimed {5 | 0 || 0 | -1} (= 0), is {{5 | 0}, {5 | {0 | −1}} | {0 | −1}, {{5 | 0} | −1}}",
+     "LRLLLLLLRRLL: claimed {4 | 1 || 1 | 0} (= 1), is {{4 | 1}, {4 | {1 | 0}} | {1 | 0}, {{4 | 1} | 0}}",
+     "RLLLLLLRRL: claimed {4 | 0 || 0 | 0} (= 0), is {{4 | 0}, {4 | *} | *, ⧿(4)}",
+     "RLLLLLLRRRL: claimed {4 | 0 || 0 | -1} (= 0), is {{4 | 0}, {4 | {0 | −1}} | {0 | −1}, {{4 | 0} | −1}}",
+     "RLLLLLLRRRRL: claimed {4 | 0 || 0 | -2} (= 0), is {{4 | 0}, {4 | {0 | −2}} | {0 | −2}, {{4 | 0} | −2}}",
+     "LRLLLLLRLRLL: claimed {3 | 1 || 1 | 1} (= 1), is {{3 | 1}, {3 | 1*} | 1*, 1 + ⧿(2)}",
+     "LRLLLLLRRLL: claimed {3 | 1 || 1 | 0} (= 1), is {{3 | 1}, {3 | {1 | 0}} | {1 | 0}, {{3 | 1} | 0}}",
+     "LRLLLLLRRRLL: claimed {3 | 1 || 1 | -1} (= 1), is {{3 | 1}, {3 | ±1} | ±1, {{3 | 1} | −1}}",
+     "RLLLLLRRL: claimed {3 | 0 || 0 | 0} (= 0), is {{3 | 0}, {3 | *} | *, ⧿(3)}",
+     "RLLLLLRRLRRL: claimed {3 | 0 || 0 | -1/2} (= 0), is {{3 | 0}, {3 | {0 | −1/2}} | {0 | −1/2}, {{3 | 0} | −1/2}}"
+    ],
+    "notUniqueLR": []
+   },
+   "byTies": {
+    "a=b=c=d": {
+     "rows": 3,
+     "valueOk": 0,
+     "uniqueLR": 0,
+     "claimedIsNumber": 3
+    },
+    "a=b=c>d": {
+     "rows": 19,
+     "valueOk": 0,
+     "uniqueLR": 0,
+     "claimedIsNumber": 19
+    },
+    "a=b>c=d": {
+     "rows": 13,
+     "valueOk": 13,
+     "uniqueLR": 13,
+     "claimedIsNumber": 0
+    },
+    "a=b>c>d": {
+     "rows": 25,
+     "valueOk": 25,
+     "uniqueLR": 25,
+     "claimedIsNumber": 0
+    },
+    "a>b=c=d": {
+     "rows": 19,
+     "valueOk": 0,
+     "uniqueLR": 0,
+     "claimedIsNumber": 19
+    },
+    "a>b=c>d": {
+     "rows": 38,
+     "valueOk": 0,
+     "uniqueLR": 0,
+     "claimedIsNumber": 38
+    },
+    "a>b>c=d": {
+     "rows": 25,
+     "valueOk": 25,
+     "uniqueLR": 25,
+     "claimedIsNumber": 0
+    },
+    "a>b>c>d": {
+     "rows": 27,
+     "valueOk": 27,
+     "uniqueLR": 27,
+     "claimedIsNumber": 0
+    }
+   }
+  }
+ },
+ "day2": [
+  {
+   "game": "0",
+   "rows": 1,
+   "shortest": ""
+  },
+  {
+   "game": "−1",
+   "rows": 1,
+   "shortest": "R"
+  },
+  {
+   "game": "−2",
+   "rows": 1,
+   "shortest": "RR"
+  },
+  {
+   "game": "1",
+   "rows": 1,
+   "shortest": "L"
+  },
+  {
+   "game": "*",
+   "rows": 3,
+   "shortest": "E"
+  },
+  {
+   "game": "↑",
+   "rows": 1,
+   "shortest": "LRRL"
+  },
+  {
+   "game": "↓*",
+   "rows": 0,
+   "shortest": null
+  },
+  {
+   "game": "1/2",
+   "rows": 1,
+   "shortest": "LRL"
+  },
+  {
+   "game": "{0 | −1}",
+   "rows": 4,
+   "shortest": "ER"
+  },
+  {
+   "game": "↓",
+   "rows": 1,
+   "shortest": "RLLR"
+  },
+  {
+   "game": "{* | −1}",
+   "rows": 4,
+   "shortest": "RELR"
+  },
+  {
+   "game": "↑*",
+   "rows": 0,
+   "shortest": null
+  },
+  {
+   "game": "*2",
+   "rows": 9,
+   "shortest": "EE"
+  },
+  {
+   "game": "{0, * | −1}",
+   "rows": 0,
+   "shortest": null
+  },
+  {
+   "game": "2",
+   "rows": 1,
+   "shortest": "LL"
+  },
+  {
+   "game": "{1 | 0}",
+   "rows": 4,
+   "shortest": "EL"
+  },
+  {
+   "game": "{1 | *}",
+   "rows": 4,
+   "shortest": "LERL"
+  },
+  {
+   "game": "{1 | 0, *}",
+   "rows": 0,
+   "shortest": null
+  },
+  {
+   "game": "1*",
+   "rows": 3,
+   "shortest": "LEL"
+  },
+  {
+   "game": "±1",
+   "rows": 4,
+   "shortest": "LER"
+  },
+  {
+   "game": "−1/2",
+   "rows": 1,
+   "shortest": "RLR"
+  },
+  {
+   "game": "−1*",
+   "rows": 3,
+   "shortest": "RER"
+  }
+ ],
+ "shared": {
+  "values": 74817,
+  "nimbers": 11,
+  "examples": [
+   "{1 | 0}: EL, LLR (2 up to reversal)",
+   "{0 | −1}: ER, LRR (2 up to reversal)",
+   "{2 | 0}: ELL, LLLR (2 up to reversal)",
+   "1*: LEL, LLRL (2 up to reversal)",
+   "±1: LER, LLRR (2 up to reversal)",
+   "{1, {1 | 0} | 0, *}: EEL, LELR, ERLL, LLRLR (4 up to reversal)",
+   "{0 | −2}: ERR, LRRR (2 up to reversal)",
+   "−1*: RER, RLRR (2 up to reversal)",
+   "{0, * | −1, {0 | −1}}: EER, LRER, ELRR, LRLRR (4 up to reversal)",
+   "{0, {1 | 0} | 0}: ELE, ELLR (2 up to reversal)",
+   "{0 | 0, {0 | −1}}: ERE, ERRL (2 up to reversal)",
+   "{3 | 0}: ELLL, LLLLR (2 up to reversal)"
+  ],
+  "lengths": {
+   "1": 1,
+   "2": 3,
+   "3": 10,
+   "4": 26,
+   "5": 78,
+   "6": 207,
+   "7": 637,
+   "8": 1824,
+   "9": 5543,
+   "10": 16474,
+   "11": 49882,
+   "12": 132
+  }
+ }
+}

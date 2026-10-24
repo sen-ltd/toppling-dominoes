@@ -1,0 +1,13 @@
+{"n":0,"rows":1,"newValues":1,"distinctSoFar":1,"numbers":1,"hot":0,"infinitesimal":1,"ms":1,"games":43,"le":1560}
+{"n":1,"rows":3,"newValues":3,"distinctSoFar":4,"numbers":2,"hot":0,"infinitesimal":1,"ms":0,"games":45,"le":1560}
+{"n":2,"rows":9,"newValues":5,"distinctSoFar":9,"numbers":2,"hot":4,"infinitesimal":3,"ms":0,"games":49,"le":1570}
+{"n":3,"rows":27,"newValues":14,"distinctSoFar":23,"numbers":4,"hot":14,"infinitesimal":7,"ms":1,"games":62,"le":1630}
+{"n":4,"rows":81,"newValues":30,"distinctSoFar":53,"numbers":2,"hot":52,"infinitesimal":21,"ms":3,"games":89,"le":1914}
+{"n":5,"rows":243,"newValues":88,"distinctSoFar":141,"numbers":6,"hot":164,"infinitesimal":61,"ms":7,"games":176,"le":3074}
+{"n":6,"rows":729,"newValues":224,"distinctSoFar":365,"numbers":4,"hot":500,"infinitesimal":183,"ms":42,"games":399,"le":7642}
+{"n":7,"rows":2187,"newValues":683,"distinctSoFar":1048,"numbers":6,"hot":1514,"infinitesimal":547,"ms":119,"games":1081,"le":25244}
+{"n":8,"rows":6561,"newValues":1953,"distinctSoFar":3001,"numbers":4,"hot":4564,"infinitesimal":1641,"ms":451,"games":3033,"le":91727}
+{"n":9,"rows":19683,"newValues":5953,"distinctSoFar":8954,"numbers":10,"hot":13696,"infinitesimal":4921,"ms":2475,"games":8985,"le":338720}
+{"n":10,"rows":59049,"newValues":17733,"distinctSoFar":26687,"numbers":4,"hot":41116,"infinitesimal":14763,"ms":14612,"games":26717,"le":1244005}
+{"n":11,"rows":177147,"newValues":54014,"distinctSoFar":80701,"numbers":12,"hot":123374,"infinitesimal":44287,"ms":143089,"games":80730,"le":4515747}
+{"n":12,"rows":531441,"newValues":163216,"distinctSoFar":243917,"numbers":6,"hot":370124,"infinitesimal":132861,"ms":649520,"games":243945,"le":16199627}

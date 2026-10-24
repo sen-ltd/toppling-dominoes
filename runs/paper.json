@@ -1,0 +1,140 @@
+{
+  "passed": 19,
+  "total": 19,
+  "items": [
+    {
+      "id": "fig2-5",
+      "where": "Figure 2",
+      "claim": "LLLLL = 5",
+      "got": "5",
+      "ok": true
+    },
+    {
+      "id": "fig2-half",
+      "where": "Figure 2",
+      "claim": "LRL = 1/2",
+      "got": "1/2",
+      "ok": true
+    },
+    {
+      "id": "fig2-quarter",
+      "where": "Figure 2",
+      "claim": "LRLRL = 1/4",
+      "got": "1/4",
+      "ok": true
+    },
+    {
+      "id": "fig2-eighth",
+      "where": "Figure 2",
+      "claim": "LRLRLRL = 1/8",
+      "got": "1/8",
+      "ok": true
+    },
+    {
+      "id": "fig2-star5",
+      "where": "Figure 2",
+      "claim": "EEEEE = *5",
+      "got": "*5",
+      "ok": true
+    },
+    {
+      "id": "fig2-up",
+      "where": "Figure 2",
+      "claim": "LRRL = ↑",
+      "got": "↑",
+      "ok": true
+    },
+    {
+      "id": "fig2-tiny1",
+      "where": "Figure 2",
+      "claim": "LRRRL = ⧾(1)",
+      "got": "⧾(1)",
+      "ok": true
+    },
+    {
+      "id": "fig2-tiny2",
+      "where": "Figure 2",
+      "claim": "LRRRRL = ⧾(2)",
+      "got": "⧾(2)",
+      "ok": true
+    },
+    {
+      "id": "fig2-tinyhalf",
+      "where": "Figure 2",
+      "claim": "LRRLRRL = ⧾(1/2)",
+      "got": "⧾(1/2)",
+      "ok": true
+    },
+    {
+      "id": "fig2-star3",
+      "where": "Figure 2",
+      "claim": "LRLRE = *3",
+      "got": "*3",
+      "ok": true
+    },
+    {
+      "id": "conj33-form",
+      "where": "Conjecture 33",
+      "claim": "LERE = {1 | 0, {0 | −1}}",
+      "got": "{1 | 0, {0 | −1}}",
+      "ok": true
+    },
+    {
+      "id": "sec1-options",
+      "where": "§1 p.65",
+      "claim": "Left options of LRLR: A = RLR, B = ∅, C = R, D = LR",
+      "got": "RLR ∅ R LR",
+      "ok": true
+    },
+    {
+      "id": "fig1-exercise",
+      "where": "Figure 1 (exercise)",
+      "claim": "LRLRLLRLRL = ?",
+      "got": "3/8",
+      "ok": true,
+      "note": "the paper leaves it as an exercise"
+    },
+    {
+      "id": "def9-example",
+      "where": "Definition 9",
+      "claim": "f(RRLLRL) = LRLRLLLRLL",
+      "got": "LRLRLLLRLL",
+      "ok": true
+    },
+    {
+      "id": "lemma-23",
+      "where": "Lemma 23",
+      "claim": "(LR)^m = *m, m = 0…12",
+      "got": "0 exceptions",
+      "ok": true
+    },
+    {
+      "id": "lemma-25",
+      "where": "Lemma 25",
+      "claim": "(LR)^a (RL)^m (LR)^a = *m, 0 ≤ a < m ≤ 7 (28 rows, up to length 38)",
+      "got": "0 exceptions",
+      "ok": true
+    },
+    {
+      "id": "thm-10-long",
+      "where": "Theorem 10",
+      "claim": "f(G) = 1:G for LRLRLLRLRL, EREELRRELL, RRRLLLEEE, LERELERELERE",
+      "got": "0 exceptions",
+      "ok": true
+    },
+    {
+      "id": "thm-16-constructive",
+      "where": "Theorem 10, Corollary 17",
+      "claim": "numberRow(x) = x and is a palindrome, x = k/16, |x| ≤ 4 (129 numbers)",
+      "got": "0 exceptions",
+      "ok": true
+    },
+    {
+      "id": "thm-21",
+      "where": "Theorem 21",
+      "claim": "R L x L R = ⧿x and L R (−x) R L = ⧾x, x = k/16 ≤ 4 (64 numbers)",
+      "got": "0 exceptions",
+      "ok": true
+    }
+  ]
+}

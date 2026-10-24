@@ -1,0 +1,80 @@
+{
+ "items": [
+  {
+   "status": "ok",
+   "title": "Figures and named rows",
+   "detail": "19 / 19 items, e.g. LRRL = ↑, LRRLRRL = ⧾(1/2), LRLRE = *3. Figure 1 (the exercise) = 3/8."
+  },
+  {
+   "status": "ok",
+   "title": "Lemma 1: the ends decide who wins",
+   "detail": "797,161 rows of length ≤ 12 and 1,048,575 blue/red rows of length ≤ 19, each also checked by a plain win/lose search."
+  },
+  {
+   "status": "ok",
+   "title": "Theorem 10: f(G) = 1:G",
+   "detail": "2,730 rows G with f(G) of length ≤ 12 (any colours) and 10,945 with f(G) blue/red of length ≤ 19."
+  },
+  {
+   "status": "ok",
+   "title": "Theorem 16: one row per number, a palindrome",
+   "detail": "63 numbers among rows of length ≤ 12, 139 among blue/red rows of length ≤ 19; each taken by exactly one row."
+  },
+  {
+   "status": "ok",
+   "title": "Theorem 21 and Conjecture 22: tinies",
+   "detail": "R L x L R = ⧿(x) and nothing else is: 30 tinies/minies fit in length ≤ 12 (any colours), 94 in blue/red length ≤ 19. The paper went to 15."
+  },
+  {
+   "status": "ok",
+   "title": "Theorem 29: *m has m blue/red forms",
+   "detail": "*1…*9: every blue/red row of length ≤ 19 equal to *m is (LR)^a (RL)^m (LR)^a or its reverse, and every such row that fits is found."
+  },
+  {
+   "status": "ok",
+   "title": "Lemmas 30–31: shape of infinitesimals",
+   "detail": "199,296 infinitesimal rows (any colours, ≤ 12): the first player can always reach a nimber, and every other move can be answered by one."
+  },
+  {
+   "status": "info",
+   "title": "Theorem 32: atomic weight 0, ±1",
+   "detail": "Not recomputed: these infinitesimals are not all-small, and the paper only sketches the substitution that makes the atomic-weight recursion apply."
+  },
+  {
+   "status": "ok",
+   "title": "Conjecture 33: {1 | 0, {0 | −1}} needs green",
+   "detail": "No blue/red row of length ≤ 19 has this value; with green it is LERE and 3 other rows of length ≤ 12."
+  },
+  {
+   "status": "ok",
+   "title": "Conjecture 34: x L y > x y",
+   "detail": "12,492,971 insertions, strictly greater every time."
+  },
+  {
+   "status": "ok",
+   "title": "Conjecture 35: blue/red palindromes are unique",
+   "detail": "3,069 palindromes of length ≤ 19; no other blue/red row shares a value with one."
+  },
+  {
+   "status": "ok",
+   "title": "Theorem 36, Conjectures 37–38",
+   "detail": "{a | b} = a L R b: 1,544 rows; {a ‖ b | c} = a L R c R L b: 4,440 rows (length ≤ 19); all equal and unique up to reversal."
+  },
+  {
+   "status": "no",
+   "title": "Conjecture 39: {a | b ‖ c | d}",
+   "detail": "b R L a L R d R L c holds in all 3,911 cases with b > c but fails in all 1,107 with b = c (a=b=c=d, a=b=c>d, a>b=c=d, a>b=c>d): there {a | b ‖ b | d} is just the number b."
+  },
+  {
+   "status": "info",
+   "title": "Conjecture 40: some games never occur",
+   "detail": "18 of the 22 games born by day 2 appear in rows of length ≤ 12; missing: ↓*, ↑*, {0, * | −1}, {1 | 0, *}."
+  },
+  {
+   "status": "info",
+   "title": "Blue/red rows almost never share a value",
+   "detail": "Up to reversal, only 16 values of blue/red rows of length ≤ 19 are taken by two different rows, 6 of them nimbers (Theorem 29)."
+  }
+ ],
+ "footer": "Every row of blue, red and green up to length 12 (797,161 rows) and every blue/red row up to length 19 (1,048,575 rows): node tools/verify.mts sweep."
+}

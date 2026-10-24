@@ -1,0 +1,1778 @@
+{
+ "alphabet": "LR",
+ "N": 19,
+ "seconds": 1369.454,
+ "distinctValues": 525803,
+ "games": 527397,
+ "checks": {
+  "lemma1": {
+   "checked": 1048575,
+   "failures": []
+  },
+  "search": {
+   "checked": 1048575,
+   "failures": []
+  },
+  "thm10": {
+   "checked": 10945,
+   "failures": []
+  },
+  "conj34": {
+   "checked": 9437185,
+   "failures": []
+  },
+  "lemma14": {
+   "checked": 139,
+   "failures": []
+  },
+  "lemma30": {
+   "checked": 116514,
+   "failures": []
+  },
+  "lemma31": {
+   "checked": 116514,
+   "failures": []
+  }
+ },
+ "thm16": {
+  "numbers": 139,
+  "failures": [],
+  "list": [
+   [
+    "-19",
+    "RRRRRRRRRRRRRRRRRRR"
+   ],
+   [
+    "-18",
+    "RRRRRRRRRRRRRRRRRR"
+   ],
+   [
+    "-17",
+    "RRRRRRRRRRRRRRRRR"
+   ],
+   [
+    "-16",
+    "RRRRRRRRRRRRRRRR"
+   ],
+   [
+    "-15",
+    "RRRRRRRRRRRRRRR"
+   ],
+   [
+    "-14",
+    "RRRRRRRRRRRRRR"
+   ],
+   [
+    "-13",
+    "RRRRRRRRRRRRR"
+   ],
+   [
+    "-12",
+    "RRRRRRRRRRRR"
+   ],
+   [
+    "-11",
+    "RRRRRRRRRRR"
+   ],
+   [
+    "-10",
+    "RRRRRRRRRR"
+   ],
+   [
+    "-9",
+    "RRRRRRRRR"
+   ],
+   [
+    "-17/2",
+    "RRRRRRRRRLRRRRRRRRR"
+   ],
+   [
+    "-8",
+    "RRRRRRRR"
+   ],
+   [
+    "-15/2",
+    "RRRRRRRRLRRRRRRRR"
+   ],
+   [
+    "-7",
+    "RRRRRRR"
+   ],
+   [
+    "-13/2",
+    "RRRRRRRLRRRRRRR"
+   ],
+   [
+    "-6",
+    "RRRRRR"
+   ],
+   [
+    "-11/2",
+    "RRRRRRLRRRRRR"
+   ],
+   [
+    "-5",
+    "RRRRR"
+   ],
+   [
+    "-19/4",
+    "RRRRRLRRRRRRLRRRRR"
+   ],
+   [
+    "-9/2",
+    "RRRRRLRRRRR"
+   ],
+   [
+    "-17/4",
+    "RRRRRLRRRRRLRRRRR"
+   ],
+   [
+    "-4",
+    "RRRR"
+   ],
+   [
+    "-15/4",
+    "RRRRLRRRRRLRRRR"
+   ],
+   [
+    "-7/2",
+    "RRRRLRRRR"
+   ],
+   [
+    "-13/4",
+    "RRRRLRRRRLRRRR"
+   ],
+   [
+    "-25/8",
+    "RRRRLRRRRLRRRRLRRRR"
+   ],
+   [
+    "-3",
+    "RRR"
+   ],
+   [
+    "-23/8",
+    "RRRLRRRRLRRRRLRRR"
+   ],
+   [
+    "-11/4",
+    "RRRLRRRRLRRR"
+   ],
+   [
+    "-5/2",
+    "RRRLRRR"
+   ],
+   [
+    "-9/4",
+    "RRRLRRRLRRR"
+   ],
+   [
+    "-17/8",
+    "RRRLRRRLRRRLRRR"
+   ],
+   [
+    "-33/16",
+    "RRRLRRRLRRRLRRRLRRR"
+   ],
+   [
+    "-2",
+    "RR"
+   ],
+   [
+    "-31/16",
+    "RRLRRRLRRRLRRRLRR"
+   ],
+   [
+    "-15/8",
+    "RRLRRRLRRRLRR"
+   ],
+   [
+    "-7/4",
+    "RRLRRRLRR"
+   ],
+   [
+    "-13/8",
+    "RRLRRRLRRLRRRLRR"
+   ],
+   [
+    "-3/2",
+    "RRLRR"
+   ],
+   [
+    "-11/8",
+    "RRLRRLRRRLRRLRR"
+   ],
+   [
+    "-5/4",
+    "RRLRRLRR"
+   ],
+   [
+    "-9/8",
+    "RRLRRLRRLRR"
+   ],
+   [
+    "-17/16",
+    "RRLRRLRRLRRLRR"
+   ],
+   [
+    "-33/32",
+    "RRLRRLRRLRRLRRLRR"
+   ],
+   [
+    "-1",
+    "R"
+   ],
+   [
+    "-63/64",
+    "RLRRLRRLRRLRRLRRLR"
+   ],
+   [
+    "-31/32",
+    "RLRRLRRLRRLRRLR"
+   ],
+   [
+    "-15/16",
+    "RLRRLRRLRRLR"
+   ],
+   [
+    "-7/8",
+    "RLRRLRRLR"
+   ],
+   [
+    "-13/16",
+    "RLRRLRRLRLRRLRRLR"
+   ],
+   [
+    "-3/4",
+    "RLRRLR"
+   ],
+   [
+    "-11/16",
+    "RLRRLRLRRLRRLRLRRLR"
+   ],
+   [
+    "-5/8",
+    "RLRRLRLRRLR"
+   ],
+   [
+    "-9/16",
+    "RLRRLRLRRLRLRRLR"
+   ],
+   [
+    "-1/2",
+    "RLR"
+   ],
+   [
+    "-7/16",
+    "RLRLRRLRLRRLRLR"
+   ],
+   [
+    "-3/8",
+    "RLRLRRLRLR"
+   ],
+   [
+    "-5/16",
+    "RLRLRRLRLRLRRLRLR"
+   ],
+   [
+    "-1/4",
+    "RLRLR"
+   ],
+   [
+    "-3/16",
+    "RLRLRLRRLRLRLR"
+   ],
+   [
+    "-1/8",
+    "RLRLRLR"
+   ],
+   [
+    "-3/32",
+    "RLRLRLRLRRLRLRLRLR"
+   ],
+   [
+    "-1/16",
+    "RLRLRLRLR"
+   ],
+   [
+    "-1/32",
+    "RLRLRLRLRLR"
+   ],
+   [
+    "-1/64",
+    "RLRLRLRLRLRLR"
+   ],
+   [
+    "-1/128",
+    "RLRLRLRLRLRLRLR"
+   ],
+   [
+    "-1/256",
+    "RLRLRLRLRLRLRLRLR"
+   ],
+   [
+    "-1/512",
+    "RLRLRLRLRLRLRLRLRLR"
+   ],
+   [
+    "0",
+    ""
+   ],
+   [
+    "1/512",
+    "LRLRLRLRLRLRLRLRLRL"
+   ],
+   [
+    "1/256",
+    "LRLRLRLRLRLRLRLRL"
+   ],
+   [
+    "1/128",
+    "LRLRLRLRLRLRLRL"
+   ],
+   [
+    "1/64",
+    "LRLRLRLRLRLRL"
+   ],
+   [
+    "1/32",
+    "LRLRLRLRLRL"
+   ],
+   [
+    "1/16",
+    "LRLRLRLRL"
+   ],
+   [
+    "3/32",
+    "LRLRLRLRLLRLRLRLRL"
+   ],
+   [
+    "1/8",
+    "LRLRLRL"
+   ],
+   [
+    "3/16",
+    "LRLRLRLLRLRLRL"
+   ],
+   [
+    "1/4",
+    "LRLRL"
+   ],
+   [
+    "5/16",
+    "LRLRLLRLRLRLLRLRL"
+   ],
+   [
+    "3/8",
+    "LRLRLLRLRL"
+   ],
+   [
+    "7/16",
+    "LRLRLLRLRLLRLRL"
+   ],
+   [
+    "1/2",
+    "LRL"
+   ],
+   [
+    "9/16",
+    "LRLLRLRLLRLRLLRL"
+   ],
+   [
+    "5/8",
+    "LRLLRLRLLRL"
+   ],
+   [
+    "11/16",
+    "LRLLRLRLLRLLRLRLLRL"
+   ],
+   [
+    "3/4",
+    "LRLLRL"
+   ],
+   [
+    "13/16",
+    "LRLLRLLRLRLLRLLRL"
+   ],
+   [
+    "7/8",
+    "LRLLRLLRL"
+   ],
+   [
+    "15/16",
+    "LRLLRLLRLLRL"
+   ],
+   [
+    "31/32",
+    "LRLLRLLRLLRLLRL"
+   ],
+   [
+    "63/64",
+    "LRLLRLLRLLRLLRLLRL"
+   ],
+   [
+    "1",
+    "L"
+   ],
+   [
+    "33/32",
+    "LLRLLRLLRLLRLLRLL"
+   ],
+   [
+    "17/16",
+    "LLRLLRLLRLLRLL"
+   ],
+   [
+    "9/8",
+    "LLRLLRLLRLL"
+   ],
+   [
+    "5/4",
+    "LLRLLRLL"
+   ],
+   [
+    "11/8",
+    "LLRLLRLLLRLLRLL"
+   ],
+   [
+    "3/2",
+    "LLRLL"
+   ],
+   [
+    "13/8",
+    "LLRLLLRLLRLLLRLL"
+   ],
+   [
+    "7/4",
+    "LLRLLLRLL"
+   ],
+   [
+    "15/8",
+    "LLRLLLRLLLRLL"
+   ],
+   [
+    "31/16",
+    "LLRLLLRLLLRLLLRLL"
+   ],
+   [
+    "2",
+    "LL"
+   ],
+   [
+    "33/16",
+    "LLLRLLLRLLLRLLLRLLL"
+   ],
+   [
+    "17/8",
+    "LLLRLLLRLLLRLLL"
+   ],
+   [
+    "9/4",
+    "LLLRLLLRLLL"
+   ],
+   [
+    "5/2",
+    "LLLRLLL"
+   ],
+   [
+    "11/4",
+    "LLLRLLLLRLLL"
+   ],
+   [
+    "23/8",
+    "LLLRLLLLRLLLLRLLL"
+   ],
+   [
+    "3",
+    "LLL"
+   ],
+   [
+    "25/8",
+    "LLLLRLLLLRLLLLRLLLL"
+   ],
+   [
+    "13/4",
+    "LLLLRLLLLRLLLL"
+   ],
+   [
+    "7/2",
+    "LLLLRLLLL"
+   ],
+   [
+    "15/4",
+    "LLLLRLLLLLRLLLL"
+   ],
+   [
+    "4",
+    "LLLL"
+   ],
+   [
+    "17/4",
+    "LLLLLRLLLLLRLLLLL"
+   ],
+   [
+    "9/2",
+    "LLLLLRLLLLL"
+   ],
+   [
+    "19/4",
+    "LLLLLRLLLLLLRLLLLL"
+   ],
+   [
+    "5",
+    "LLLLL"
+   ],
+   [
+    "11/2",
+    "LLLLLLRLLLLLL"
+   ],
+   [
+    "6",
+    "LLLLLL"
+   ],
+   [
+    "13/2",
+    "LLLLLLLRLLLLLLL"
+   ],
+   [
+    "7",
+    "LLLLLLL"
+   ],
+   [
+    "15/2",
+    "LLLLLLLLRLLLLLLLL"
+   ],
+   [
+    "8",
+    "LLLLLLLL"
+   ],
+   [
+    "17/2",
+    "LLLLLLLLLRLLLLLLLLL"
+   ],
+   [
+    "9",
+    "LLLLLLLLL"
+   ],
+   [
+    "10",
+    "LLLLLLLLLL"
+   ],
+   [
+    "11",
+    "LLLLLLLLLLL"
+   ],
+   [
+    "12",
+    "LLLLLLLLLLLL"
+   ],
+   [
+    "13",
+    "LLLLLLLLLLLLL"
+   ],
+   [
+    "14",
+    "LLLLLLLLLLLLLL"
+   ],
+   [
+    "15",
+    "LLLLLLLLLLLLLLL"
+   ],
+   [
+    "16",
+    "LLLLLLLLLLLLLLLL"
+   ],
+   [
+    "17",
+    "LLLLLLLLLLLLLLLLL"
+   ],
+   [
+    "18",
+    "LLLLLLLLLLLLLLLLLL"
+   ],
+   [
+    "19",
+    "LLLLLLLLLLLLLLLLLLL"
+   ]
+  ]
+ },
+ "conj22": [
+  {
+   "x": 0.0078125,
+   "row": "RLLRLRLRLRLRLRLRLLR",
+   "count": 1,
+   "rows": [
+    "RLLRLRLRLRLRLRLRLLR"
+   ]
+  },
+  {
+   "x": 0.0078125,
+   "row": "LRRLRLRLRLRLRLRLRRL",
+   "count": 1,
+   "rows": [
+    "LRRLRLRLRLRLRLRLRRL"
+   ]
+  },
+  {
+   "x": 0.015625,
+   "row": "RLLRLRLRLRLRLRLLR",
+   "count": 1,
+   "rows": [
+    "RLLRLRLRLRLRLRLLR"
+   ]
+  },
+  {
+   "x": 0.015625,
+   "row": "LRRLRLRLRLRLRLRRL",
+   "count": 1,
+   "rows": [
+    "LRRLRLRLRLRLRLRRL"
+   ]
+  },
+  {
+   "x": 0.03125,
+   "row": "RLLRLRLRLRLRLLR",
+   "count": 1,
+   "rows": [
+    "RLLRLRLRLRLRLLR"
+   ]
+  },
+  {
+   "x": 0.03125,
+   "row": "LRRLRLRLRLRLRRL",
+   "count": 1,
+   "rows": [
+    "LRRLRLRLRLRLRRL"
+   ]
+  },
+  {
+   "x": 0.0625,
+   "row": "RLLRLRLRLRLLR",
+   "count": 1,
+   "rows": [
+    "RLLRLRLRLRLLR"
+   ]
+  },
+  {
+   "x": 0.0625,
+   "row": "LRRLRLRLRLRRL",
+   "count": 1,
+   "rows": [
+    "LRRLRLRLRLRRL"
+   ]
+  },
+  {
+   "x": 0.125,
+   "row": "RLLRLRLRLLR",
+   "count": 1,
+   "rows": [
+    "RLLRLRLRLLR"
+   ]
+  },
+  {
+   "x": 0.125,
+   "row": "LRRLRLRLRRL",
+   "count": 1,
+   "rows": [
+    "LRRLRLRLRRL"
+   ]
+  },
+  {
+   "x": 0.1875,
+   "row": "RLLRLRLRLLRLRLRLLR",
+   "count": 1,
+   "rows": [
+    "RLLRLRLRLLRLRLRLLR"
+   ]
+  },
+  {
+   "x": 0.1875,
+   "row": "LRRLRLRLRRLRLRLRRL",
+   "count": 1,
+   "rows": [
+    "LRRLRLRLRRLRLRLRRL"
+   ]
+  },
+  {
+   "x": 0.25,
+   "row": "RLLRLRLLR",
+   "count": 1,
+   "rows": [
+    "RLLRLRLLR"
+   ]
+  },
+  {
+   "x": 0.25,
+   "row": "LRRLRLRRL",
+   "count": 1,
+   "rows": [
+    "LRRLRLRRL"
+   ]
+  },
+  {
+   "x": 0.375,
+   "row": "RLLRLRLLRLRLLR",
+   "count": 1,
+   "rows": [
+    "RLLRLRLLRLRLLR"
+   ]
+  },
+  {
+   "x": 0.375,
+   "row": "LRRLRLRRLRLRRL",
+   "count": 1,
+   "rows": [
+    "LRRLRLRRLRLRRL"
+   ]
+  },
+  {
+   "x": 0.4375,
+   "row": "RLLRLRLLRLRLLRLRLLR",
+   "count": 1,
+   "rows": [
+    "RLLRLRLLRLRLLRLRLLR"
+   ]
+  },
+  {
+   "x": 0.4375,
+   "row": "LRRLRLRRLRLRRLRLRRL",
+   "count": 1,
+   "rows": [
+    "LRRLRLRRLRLRRLRLRRL"
+   ]
+  },
+  {
+   "x": 0.5,
+   "row": "RLLRLLR",
+   "count": 1,
+   "rows": [
+    "RLLRLLR"
+   ]
+  },
+  {
+   "x": 0.5,
+   "row": "LRRLRRL",
+   "count": 1,
+   "rows": [
+    "LRRLRRL"
+   ]
+  },
+  {
+   "x": 0.625,
+   "row": "RLLRLLRLRLLRLLR",
+   "count": 1,
+   "rows": [
+    "RLLRLLRLRLLRLLR"
+   ]
+  },
+  {
+   "x": 0.625,
+   "row": "LRRLRRLRLRRLRRL",
+   "count": 1,
+   "rows": [
+    "LRRLRRLRLRRLRRL"
+   ]
+  },
+  {
+   "x": 0.75,
+   "row": "RLLRLLRLLR",
+   "count": 1,
+   "rows": [
+    "RLLRLLRLLR"
+   ]
+  },
+  {
+   "x": 0.75,
+   "row": "LRRLRRLRRL",
+   "count": 1,
+   "rows": [
+    "LRRLRRLRRL"
+   ]
+  },
+  {
+   "x": 0.875,
+   "row": "RLLRLLRLLRLLR",
+   "count": 1,
+   "rows": [
+    "RLLRLLRLLRLLR"
+   ]
+  },
+  {
+   "x": 0.875,
+   "row": "LRRLRRLRRLRRL",
+   "count": 1,
+   "rows": [
+    "LRRLRRLRRLRRL"
+   ]
+  },
+  {
+   "x": 0.9375,
+   "row": "RLLRLLRLLRLLRLLR",
+   "count": 1,
+   "rows": [
+    "RLLRLLRLLRLLRLLR"
+   ]
+  },
+  {
+   "x": 0.9375,
+   "row": "LRRLRRLRRLRRLRRL",
+   "count": 1,
+   "rows": [
+    "LRRLRRLRRLRRLRRL"
+   ]
+  },
+  {
+   "x": 0.96875,
+   "row": "RLLRLLRLLRLLRLLRLLR",
+   "count": 1,
+   "rows": [
+    "RLLRLLRLLRLLRLLRLLR"
+   ]
+  },
+  {
+   "x": 0.96875,
+   "row": "LRRLRRLRRLRRLRRLRRL",
+   "count": 1,
+   "rows": [
+    "LRRLRRLRRLRRLRRLRRL"
+   ]
+  },
+  {
+   "x": 1,
+   "row": "RLLLR",
+   "count": 1,
+   "rows": [
+    "RLLLR"
+   ]
+  },
+  {
+   "x": 1,
+   "row": "LRRRL",
+   "count": 1,
+   "rows": [
+    "LRRRL"
+   ]
+  },
+  {
+   "x": 1.0625,
+   "row": "RLLLRLLRLLRLLRLLLR",
+   "count": 1,
+   "rows": [
+    "RLLLRLLRLLRLLRLLLR"
+   ]
+  },
+  {
+   "x": 1.0625,
+   "row": "LRRRLRRLRRLRRLRRRL",
+   "count": 1,
+   "rows": [
+    "LRRRLRRLRRLRRLRRRL"
+   ]
+  },
+  {
+   "x": 1.125,
+   "row": "RLLLRLLRLLRLLLR",
+   "count": 1,
+   "rows": [
+    "RLLLRLLRLLRLLLR"
+   ]
+  },
+  {
+   "x": 1.125,
+   "row": "LRRRLRRLRRLRRRL",
+   "count": 1,
+   "rows": [
+    "LRRRLRRLRRLRRRL"
+   ]
+  },
+  {
+   "x": 1.25,
+   "row": "RLLLRLLRLLLR",
+   "count": 1,
+   "rows": [
+    "RLLLRLLRLLLR"
+   ]
+  },
+  {
+   "x": 1.25,
+   "row": "LRRRLRRLRRRL",
+   "count": 1,
+   "rows": [
+    "LRRRLRRLRRRL"
+   ]
+  },
+  {
+   "x": 1.375,
+   "row": "RLLLRLLRLLLRLLRLLLR",
+   "count": 1,
+   "rows": [
+    "RLLLRLLRLLLRLLRLLLR"
+   ]
+  },
+  {
+   "x": 1.375,
+   "row": "LRRRLRRLRRRLRRLRRRL",
+   "count": 1,
+   "rows": [
+    "LRRRLRRLRRRLRRLRRRL"
+   ]
+  },
+  {
+   "x": 1.5,
+   "row": "RLLLRLLLR",
+   "count": 1,
+   "rows": [
+    "RLLLRLLLR"
+   ]
+  },
+  {
+   "x": 1.5,
+   "row": "LRRRLRRRL",
+   "count": 1,
+   "rows": [
+    "LRRRLRRRL"
+   ]
+  },
+  {
+   "x": 1.75,
+   "row": "RLLLRLLLRLLLR",
+   "count": 1,
+   "rows": [
+    "RLLLRLLLRLLLR"
+   ]
+  },
+  {
+   "x": 1.75,
+   "row": "LRRRLRRRLRRRL",
+   "count": 1,
+   "rows": [
+    "LRRRLRRRLRRRL"
+   ]
+  },
+  {
+   "x": 1.875,
+   "row": "RLLLRLLLRLLLRLLLR",
+   "count": 1,
+   "rows": [
+    "RLLLRLLLRLLLRLLLR"
+   ]
+  },
+  {
+   "x": 1.875,
+   "row": "LRRRLRRRLRRRLRRRL",
+   "count": 1,
+   "rows": [
+    "LRRRLRRRLRRRLRRRL"
+   ]
+  },
+  {
+   "x": 2,
+   "row": "RLLLLR",
+   "count": 1,
+   "rows": [
+    "RLLLLR"
+   ]
+  },
+  {
+   "x": 2,
+   "row": "LRRRRL",
+   "count": 1,
+   "rows": [
+    "LRRRRL"
+   ]
+  },
+  {
+   "x": 2.125,
+   "row": "RLLLLRLLLRLLLRLLLLR",
+   "count": 1,
+   "rows": [
+    "RLLLLRLLLRLLLRLLLLR"
+   ]
+  },
+  {
+   "x": 2.125,
+   "row": "LRRRRLRRRLRRRLRRRRL",
+   "count": 1,
+   "rows": [
+    "LRRRRLRRRLRRRLRRRRL"
+   ]
+  },
+  {
+   "x": 2.25,
+   "row": "RLLLLRLLLRLLLLR",
+   "count": 1,
+   "rows": [
+    "RLLLLRLLLRLLLLR"
+   ]
+  },
+  {
+   "x": 2.25,
+   "row": "LRRRRLRRRLRRRRL",
+   "count": 1,
+   "rows": [
+    "LRRRRLRRRLRRRRL"
+   ]
+  },
+  {
+   "x": 2.5,
+   "row": "RLLLLRLLLLR",
+   "count": 1,
+   "rows": [
+    "RLLLLRLLLLR"
+   ]
+  },
+  {
+   "x": 2.5,
+   "row": "LRRRRLRRRRL",
+   "count": 1,
+   "rows": [
+    "LRRRRLRRRRL"
+   ]
+  },
+  {
+   "x": 2.75,
+   "row": "RLLLLRLLLLRLLLLR",
+   "count": 1,
+   "rows": [
+    "RLLLLRLLLLRLLLLR"
+   ]
+  },
+  {
+   "x": 2.75,
+   "row": "LRRRRLRRRRLRRRRL",
+   "count": 1,
+   "rows": [
+    "LRRRRLRRRRLRRRRL"
+   ]
+  },
+  {
+   "x": 3,
+   "row": "RLLLLLR",
+   "count": 1,
+   "rows": [
+    "RLLLLLR"
+   ]
+  },
+  {
+   "x": 3,
+   "row": "LRRRRRL",
+   "count": 1,
+   "rows": [
+    "LRRRRRL"
+   ]
+  },
+  {
+   "x": 3.25,
+   "row": "RLLLLLRLLLLRLLLLLR",
+   "count": 1,
+   "rows": [
+    "RLLLLLRLLLLRLLLLLR"
+   ]
+  },
+  {
+   "x": 3.25,
+   "row": "LRRRRRLRRRRLRRRRRL",
+   "count": 1,
+   "rows": [
+    "LRRRRRLRRRRLRRRRRL"
+   ]
+  },
+  {
+   "x": 3.5,
+   "row": "RLLLLLRLLLLLR",
+   "count": 1,
+   "rows": [
+    "RLLLLLRLLLLLR"
+   ]
+  },
+  {
+   "x": 3.5,
+   "row": "LRRRRRLRRRRRL",
+   "count": 1,
+   "rows": [
+    "LRRRRRLRRRRRL"
+   ]
+  },
+  {
+   "x": 3.75,
+   "row": "RLLLLLRLLLLLRLLLLLR",
+   "count": 1,
+   "rows": [
+    "RLLLLLRLLLLLRLLLLLR"
+   ]
+  },
+  {
+   "x": 3.75,
+   "row": "LRRRRRLRRRRRLRRRRRL",
+   "count": 1,
+   "rows": [
+    "LRRRRRLRRRRRLRRRRRL"
+   ]
+  },
+  {
+   "x": 4,
+   "row": "RLLLLLLR",
+   "count": 1,
+   "rows": [
+    "RLLLLLLR"
+   ]
+  },
+  {
+   "x": 4,
+   "row": "LRRRRRRL",
+   "count": 1,
+   "rows": [
+    "LRRRRRRL"
+   ]
+  },
+  {
+   "x": 4.5,
+   "row": "RLLLLLLRLLLLLLR",
+   "count": 1,
+   "rows": [
+    "RLLLLLLRLLLLLLR"
+   ]
+  },
+  {
+   "x": 4.5,
+   "row": "LRRRRRRLRRRRRRL",
+   "count": 1,
+   "rows": [
+    "LRRRRRRLRRRRRRL"
+   ]
+  },
+  {
+   "x": 5,
+   "row": "RLLLLLLLR",
+   "count": 1,
+   "rows": [
+    "RLLLLLLLR"
+   ]
+  },
+  {
+   "x": 5,
+   "row": "LRRRRRRRL",
+   "count": 1,
+   "rows": [
+    "LRRRRRRRL"
+   ]
+  },
+  {
+   "x": 5.5,
+   "row": "RLLLLLLLRLLLLLLLR",
+   "count": 1,
+   "rows": [
+    "RLLLLLLLRLLLLLLLR"
+   ]
+  },
+  {
+   "x": 5.5,
+   "row": "LRRRRRRRLRRRRRRRL",
+   "count": 1,
+   "rows": [
+    "LRRRRRRRLRRRRRRRL"
+   ]
+  },
+  {
+   "x": 6,
+   "row": "RLLLLLLLLR",
+   "count": 1,
+   "rows": [
+    "RLLLLLLLLR"
+   ]
+  },
+  {
+   "x": 6,
+   "row": "LRRRRRRRRL",
+   "count": 1,
+   "rows": [
+    "LRRRRRRRRL"
+   ]
+  },
+  {
+   "x": 6.5,
+   "row": "RLLLLLLLLRLLLLLLLLR",
+   "count": 1,
+   "rows": [
+    "RLLLLLLLLRLLLLLLLLR"
+   ]
+  },
+  {
+   "x": 6.5,
+   "row": "LRRRRRRRRLRRRRRRRRL",
+   "count": 1,
+   "rows": [
+    "LRRRRRRRRLRRRRRRRRL"
+   ]
+  },
+  {
+   "x": 7,
+   "row": "RLLLLLLLLLR",
+   "count": 1,
+   "rows": [
+    "RLLLLLLLLLR"
+   ]
+  },
+  {
+   "x": 7,
+   "row": "LRRRRRRRRRL",
+   "count": 1,
+   "rows": [
+    "LRRRRRRRRRL"
+   ]
+  },
+  {
+   "x": 8,
+   "row": "RLLLLLLLLLLR",
+   "count": 1,
+   "rows": [
+    "RLLLLLLLLLLR"
+   ]
+  },
+  {
+   "x": 8,
+   "row": "LRRRRRRRRRRL",
+   "count": 1,
+   "rows": [
+    "LRRRRRRRRRRL"
+   ]
+  },
+  {
+   "x": 9,
+   "row": "RLLLLLLLLLLLR",
+   "count": 1,
+   "rows": [
+    "RLLLLLLLLLLLR"
+   ]
+  },
+  {
+   "x": 9,
+   "row": "LRRRRRRRRRRRL",
+   "count": 1,
+   "rows": [
+    "LRRRRRRRRRRRL"
+   ]
+  },
+  {
+   "x": 10,
+   "row": "RLLLLLLLLLLLLR",
+   "count": 1,
+   "rows": [
+    "RLLLLLLLLLLLLR"
+   ]
+  },
+  {
+   "x": 10,
+   "row": "LRRRRRRRRRRRRL",
+   "count": 1,
+   "rows": [
+    "LRRRRRRRRRRRRL"
+   ]
+  },
+  {
+   "x": 11,
+   "row": "RLLLLLLLLLLLLLR",
+   "count": 1,
+   "rows": [
+    "RLLLLLLLLLLLLLR"
+   ]
+  },
+  {
+   "x": 11,
+   "row": "LRRRRRRRRRRRRRL",
+   "count": 1,
+   "rows": [
+    "LRRRRRRRRRRRRRL"
+   ]
+  },
+  {
+   "x": 12,
+   "row": "RLLLLLLLLLLLLLLR",
+   "count": 1,
+   "rows": [
+    "RLLLLLLLLLLLLLLR"
+   ]
+  },
+  {
+   "x": 12,
+   "row": "LRRRRRRRRRRRRRRL",
+   "count": 1,
+   "rows": [
+    "LRRRRRRRRRRRRRRL"
+   ]
+  },
+  {
+   "x": 13,
+   "row": "RLLLLLLLLLLLLLLLR",
+   "count": 1,
+   "rows": [
+    "RLLLLLLLLLLLLLLLR"
+   ]
+  },
+  {
+   "x": 13,
+   "row": "LRRRRRRRRRRRRRRRL",
+   "count": 1,
+   "rows": [
+    "LRRRRRRRRRRRRRRRL"
+   ]
+  },
+  {
+   "x": 14,
+   "row": "RLLLLLLLLLLLLLLLLR",
+   "count": 1,
+   "rows": [
+    "RLLLLLLLLLLLLLLLLR"
+   ]
+  },
+  {
+   "x": 14,
+   "row": "LRRRRRRRRRRRRRRRRL",
+   "count": 1,
+   "rows": [
+    "LRRRRRRRRRRRRRRRRL"
+   ]
+  },
+  {
+   "x": 15,
+   "row": "RLLLLLLLLLLLLLLLLLR",
+   "count": 1,
+   "rows": [
+    "RLLLLLLLLLLLLLLLLLR"
+   ]
+  },
+  {
+   "x": 15,
+   "row": "LRRRRRRRRRRRRRRRRRL",
+   "count": 1,
+   "rows": [
+    "LRRRRRRRRRRRRRRRRRL"
+   ]
+  }
+ ],
+ "thm29": [
+  {
+   "m": 1,
+   "found": 2,
+   "expected": 2,
+   "ok": true,
+   "rows": [
+    "LR"
+   ]
+  },
+  {
+   "m": 2,
+   "found": 4,
+   "expected": 4,
+   "ok": true,
+   "rows": [
+    "LRLR",
+    "LRRLRLLR"
+   ]
+  },
+  {
+   "m": 3,
+   "found": 6,
+   "expected": 6,
+   "ok": true,
+   "rows": [
+    "LRLRLR",
+    "LRRLRLRLLR",
+    "LRLRRLRLRLLRLR"
+   ]
+  },
+  {
+   "m": 4,
+   "found": 6,
+   "expected": 6,
+   "ok": true,
+   "rows": [
+    "LRLRLRLR",
+    "LRRLRLRLRLLR",
+    "LRLRRLRLRLRLLRLR"
+   ]
+  },
+  {
+   "m": 5,
+   "found": 6,
+   "expected": 6,
+   "ok": true,
+   "rows": [
+    "LRLRLRLRLR",
+    "LRRLRLRLRLRLLR",
+    "LRLRRLRLRLRLRLLRLR"
+   ]
+  },
+  {
+   "m": 6,
+   "found": 4,
+   "expected": 4,
+   "ok": true,
+   "rows": [
+    "LRLRLRLRLRLR",
+    "LRRLRLRLRLRLRLLR"
+   ]
+  },
+  {
+   "m": 7,
+   "found": 4,
+   "expected": 4,
+   "ok": true,
+   "rows": [
+    "LRLRLRLRLRLRLR",
+    "LRRLRLRLRLRLRLRLLR"
+   ]
+  },
+  {
+   "m": 8,
+   "found": 2,
+   "expected": 2,
+   "ok": true,
+   "rows": [
+    "LRLRLRLRLRLRLRLR"
+   ]
+  },
+  {
+   "m": 9,
+   "found": 2,
+   "expected": 2,
+   "ok": true,
+   "rows": [
+    "LRLRLRLRLRLRLRLRLR"
+   ]
+  }
+ ],
+ "conj35": {
+  "checked": 3069,
+  "failures": [],
+  "palindromeValueAlsoWithGreen": []
+ },
+ "conj33": {
+  "lrRows": 0,
+  "rows": [],
+  "count": 0
+ },
+ "forms": {
+  "thm36": {
+   "strict": {
+    "rows": 100,
+    "valueOk": 100,
+    "uniqueLR": 100,
+    "uniqueAll": 100,
+    "valueFailures": [],
+    "notUniqueLR": []
+   },
+   "ties": {
+    "rows": 0,
+    "valueOk": 0,
+    "uniqueLR": 0,
+    "uniqueAll": 0,
+    "valueFailures": [],
+    "notUniqueLR": []
+   },
+   "byTies": {
+    "a>b": {
+     "rows": 100,
+     "valueOk": 100,
+     "uniqueLR": 100,
+     "claimedIsNumber": 100
+    }
+   }
+  },
+  "conj37": {
+   "strict": {
+    "rows": 1513,
+    "valueOk": 1513,
+    "uniqueLR": 1513,
+    "uniqueAll": 1513,
+    "valueFailures": [],
+    "notUniqueLR": []
+   },
+   "ties": {
+    "rows": 31,
+    "valueOk": 31,
+    "uniqueLR": 31,
+    "uniqueAll": 31,
+    "valueFailures": [],
+    "notUniqueLR": []
+   },
+   "byTies": {
+    "a=b": {
+     "rows": 31,
+     "valueOk": 31,
+     "uniqueLR": 31,
+     "claimedIsNumber": 0
+    },
+    "a>b": {
+     "rows": 1513,
+     "valueOk": 1513,
+     "uniqueLR": 1513,
+     "claimedIsNumber": 0
+    }
+   }
+  },
+  "conj38": {
+   "strict": {
+    "rows": 3715,
+    "valueOk": 3715,
+    "uniqueLR": 3715,
+    "uniqueAll": 3715,
+    "valueFailures": [],
+    "notUniqueLR": []
+   },
+   "ties": {
+    "rows": 725,
+    "valueOk": 725,
+    "uniqueLR": 725,
+    "uniqueAll": 725,
+    "valueFailures": [],
+    "notUniqueLR": []
+   },
+   "byTies": {
+    "a=b=c": {
+     "rows": 17,
+     "valueOk": 17,
+     "uniqueLR": 17,
+     "claimedIsNumber": 0
+    },
+    "a=b>c": {
+     "rows": 354,
+     "valueOk": 354,
+     "uniqueLR": 354,
+     "claimedIsNumber": 0
+    },
+    "a>b=c": {
+     "rows": 354,
+     "valueOk": 354,
+     "uniqueLR": 354,
+     "claimedIsNumber": 0
+    },
+    "a>b>c": {
+     "rows": 3715,
+     "valueOk": 3715,
+     "uniqueLR": 3715,
+     "claimedIsNumber": 0
+    }
+   }
+  },
+  "conj39": {
+   "strict": {
+    "rows": 2549,
+    "valueOk": 2549,
+    "uniqueLR": 2549,
+    "uniqueAll": 2549,
+    "valueFailures": [],
+    "notUniqueLR": []
+   },
+   "ties": {
+    "rows": 2469,
+    "valueOk": 1362,
+    "uniqueLR": 1362,
+    "uniqueAll": 1362,
+    "valueFailures": [
+     "RLLLLLLLLLLLLLLLRRL: claimed {13 | 0 || 0 | 0} (= 0), is {{13 | 0}, {13 | *} | *, ⧿(13)}",
+     "RLLLLLLLLLLLLLLRRL: claimed {12 | 0 || 0 | 0} (= 0), is {{12 | 0}, {12 | *} | *, ⧿(12)}",
+     "RLLLLLLLLLLLLLLRRRL: claimed {12 | 0 || 0 | -1} (= 0), is {{12 | 0}, {12 | {0 | −1}} | {0 | −1}, {{12 | 0} | −1}}",
+     "LRLLLLLLLLLLLLLRRLL: claimed {11 | 1 || 1 | 0} (= 1), is {{11 | 1}, {11 | {1 | 0}} | {1 | 0}, {{11 | 1} | 0}}",
+     "RLLLLLLLLLLLLLRRL: claimed {11 | 0 || 0 | 0} (= 0), is {{11 | 0}, {11 | *} | *, ⧿(11)}",
+     "RLLLLLLLLLLLLLRRRL: claimed {11 | 0 || 0 | -1} (= 0), is {{11 | 0}, {11 | {0 | −1}} | {0 | −1}, {{11 | 0} | −1}}",
+     "RLLLLLLLLLLLLLRRRRL: claimed {11 | 0 || 0 | -2} (= 0), is {{11 | 0}, {11 | {0 | −2}} | {0 | −2}, {{11 | 0} | −2}}",
+     "LRLLLLLLLLLLLLRLRLL: claimed {10 | 1 || 1 | 1} (= 1), is {{10 | 1}, {10 | 1*} | 1*, 1 + ⧿(9)}",
+     "LRLLLLLLLLLLLLRRLL: claimed {10 | 1 || 1 | 0} (= 1), is {{10 | 1}, {10 | {1 | 0}} | {1 | 0}, {{10 | 1} | 0}}",
+     "LRLLLLLLLLLLLLRRRLL: claimed {10 | 1 || 1 | -1} (= 1), is {{10 | 1}, {10 | ±1} | ±1, {{10 | 1} | −1}}",
+     "RLLLLLLLLLLLLRRL: claimed {10 | 0 || 0 | 0} (= 0), is {{10 | 0}, {10 | *} | *, ⧿(10)}",
+     "RLLLLLLLLLLLLRRLRRL: claimed {10 | 0 || 0 | -1/2} (= 0), is {{10 | 0}, {10 | {0 | −1/2}} | {0 | −1/2}, {{10 | 0} | −1/2}}"
+    ],
+    "notUniqueLR": []
+   },
+   "byTies": {
+    "a=b=c=d": {
+     "rows": 9,
+     "valueOk": 0,
+     "uniqueLR": 0,
+     "claimedIsNumber": 9
+    },
+    "a=b=c>d": {
+     "rows": 128,
+     "valueOk": 0,
+     "uniqueLR": 0,
+     "claimedIsNumber": 128
+    },
+    "a=b>c=d": {
+     "rows": 68,
+     "valueOk": 68,
+     "uniqueLR": 68,
+     "claimedIsNumber": 0
+    },
+    "a=b>c>d": {
+     "rows": 647,
+     "valueOk": 647,
+     "uniqueLR": 647,
+     "claimedIsNumber": 0
+    },
+    "a>b=c=d": {
+     "rows": 128,
+     "valueOk": 0,
+     "uniqueLR": 0,
+     "claimedIsNumber": 128
+    },
+    "a>b=c>d": {
+     "rows": 842,
+     "valueOk": 0,
+     "uniqueLR": 0,
+     "claimedIsNumber": 842
+    },
+    "a>b>c=d": {
+     "rows": 647,
+     "valueOk": 647,
+     "uniqueLR": 647,
+     "claimedIsNumber": 0
+    },
+    "a>b>c>d": {
+     "rows": 2549,
+     "valueOk": 2549,
+     "uniqueLR": 2549,
+     "claimedIsNumber": 0
+    }
+   }
+  }
+ },
+ "day2": [
+  {
+   "game": "0",
+   "rows": 1,
+   "shortest": ""
+  },
+  {
+   "game": "−1",
+   "rows": 1,
+   "shortest": "R"
+  },
+  {
+   "game": "−2",
+   "rows": 1,
+   "shortest": "RR"
+  },
+  {
+   "game": "1",
+   "rows": 1,
+   "shortest": "L"
+  },
+  {
+   "game": "*",
+   "rows": 2,
+   "shortest": "LR"
+  },
+  {
+   "game": "↑",
+   "rows": 1,
+   "shortest": "LRRL"
+  },
+  {
+   "game": "↓*",
+   "rows": 0,
+   "shortest": null
+  },
+  {
+   "game": "1/2",
+   "rows": 1,
+   "shortest": "LRL"
+  },
+  {
+   "game": "{0 | −1}",
+   "rows": 2,
+   "shortest": "LRR"
+  },
+  {
+   "game": "↓",
+   "rows": 1,
+   "shortest": "RLLR"
+  },
+  {
+   "game": "{* | −1}",
+   "rows": 2,
+   "shortest": "RLLRR"
+  },
+  {
+   "game": "↑*",
+   "rows": 0,
+   "shortest": null
+  },
+  {
+   "game": "*2",
+   "rows": 4,
+   "shortest": "LRLR"
+  },
+  {
+   "game": "{0, * | −1}",
+   "rows": 0,
+   "shortest": null
+  },
+  {
+   "game": "2",
+   "rows": 1,
+   "shortest": "LL"
+  },
+  {
+   "game": "{1 | 0}",
+   "rows": 2,
+   "shortest": "LLR"
+  },
+  {
+   "game": "{1 | *}",
+   "rows": 2,
+   "shortest": "LLRRL"
+  },
+  {
+   "game": "{1 | 0, *}",
+   "rows": 0,
+   "shortest": null
+  },
+  {
+   "game": "1*",
+   "rows": 2,
+   "shortest": "LLRL"
+  },
+  {
+   "game": "±1",
+   "rows": 2,
+   "shortest": "LLRR"
+  },
+  {
+   "game": "−1/2",
+   "rows": 1,
+   "shortest": "RLR"
+  },
+  {
+   "game": "−1*",
+   "rows": 2,
+   "shortest": "RLRR"
+  }
+ ],
+ "shared": {
+  "values": 16,
+  "nimbers": 6,
+  "examples": [
+   "1*2: LLRLLRL, LLRLRLLRLLLRL (2 up to reversal)",
+   "−1*2: RLRRLRR, RLRRRLRRLRLRR (2 up to reversal)",
+   "2*2: LLLRLLLRLL, LLLRLLRLLLRLLLLRLL (2 up to reversal)",
+   "1*3: LLRLLRLLRL, LLRLRLLRLLRLLLRL (2 up to reversal)",
+   "{*, *2, {0 | *, *2} | *, *2, {*, *2 | 0}}: LRLRRLLRLR, LRRLRLLRRLRLLR (2 up to reversal)",
+   "−1*3: RLRRLRRLRR, RLRRRLRRLRRLRLRR (2 up to reversal)",
+   "−2*2: RRLRRRLRRR, RRLRRRRLRRRLRRLRRR (2 up to reversal)",
+   "1*4: LLRLLRLLRLLRL, LLRLRLLRLLRLLRLLLRL (2 up to reversal)",
+   "−1*4: RLRRLRRLRRLRR, RLRRRLRRLRRLRRLRLRR (2 up to reversal)",
+   "{*, *3, {0 | *, *3} | *, *3, {*, *3 | 0}}: LRLRLRRLLRLRLR, LRRLRLRLLRRLRLRLLR (2 up to reversal)"
+  ],
+  "lengths": {
+   "4": 1,
+   "6": 1,
+   "7": 2,
+   "8": 1,
+   "10": 6,
+   "12": 1,
+   "13": 2,
+   "14": 2
+  }
+ }
+}
