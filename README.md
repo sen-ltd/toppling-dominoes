@@ -117,3 +117,10 @@ It fails exactly when b = c: then G − b = {a − b | 0 ‖ 0 | d − b} is a s
 ## License
 
 MIT
+
+<!-- sen-publish:links -->
+## Links
+
+- 🌐 Demo: https://sen.ltd/portfolio/toppling-dominoes/
+- 📝 記事: https://qiita.com/sen-ltd/items/7436326918cf34fc82fc
+<!-- /sen-publish:links -->
